@@ -1,0 +1,21 @@
+a {
+  color                   : #000;
+}
+a:hover {
+    text-decoration       : none;
+    color                 : white;
+}
+
+.link {
+    text-align: center;
+}
+
+.link:hover {
+    text-decoration       : none;
+    background-color      : #E80C74;
+
+}
+
+#spot {
+    padding-top           : 10px;
+}
